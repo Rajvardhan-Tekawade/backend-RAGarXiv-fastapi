@@ -1,10 +1,10 @@
-Backend (FastAPI)
+Backend (FastAPI) 
 
 Academic Paper Summarizer Backend (RAG + FastAPI) (for the IIT Kanpur+BoltIOT AI&ML internship project)
 
 This is the backend service for Ragarxiv, an academic paper summarizer that retrieves research papers from arXiv and generates concise summaries using Hugging Face's facebook/bart-large-cnn model. It utilizes FastAPI for API development, ChromaDB as a vector database, and Hugging Face Transformers for NLP-based summarization.
 
-
+Drive link for the videos and screenshots of the working project: https://drive.google.com/drive/folders/1KgPE99cXauegjsaz-MrvAZ1YfW7hCTv7
 ---
 
 Installation and Setup
