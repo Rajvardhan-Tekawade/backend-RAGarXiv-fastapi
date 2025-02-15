@@ -2,8 +2,8 @@
 
 import requests
 
-# Your Hugging Face API Key (replace with your actual token)
-HUGGING_FACE_API_KEY = "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"
+# Your Hugging Face API Key (replace with your actual access token/API Key)
+HUGGING_FACE_API_KEY = "<Your-Hugging-Face-API-Key>"
 MODEL_NAME = "facebook/bart-large-cnn"  # Set the model to BART
 
 # The API URL to call for inference
